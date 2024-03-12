@@ -1,6 +1,7 @@
 {
     "configurations": [
         
+
         {
             "name": "Docker .NET Attach (Preview)",
             "type": "docker",
